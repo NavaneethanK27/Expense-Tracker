@@ -1,4 +1,4 @@
 package com.example.Expense.Tracker.exception;
 
-public class ResourceNotFoundException {
+public class ErrorResponse {
 }
