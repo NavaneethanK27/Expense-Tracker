@@ -1,4 +1,4 @@
 package com.example.Expense.Tracker.Config;
 
-public class JwtConfiq {
+public class JwtConfig {
 }
