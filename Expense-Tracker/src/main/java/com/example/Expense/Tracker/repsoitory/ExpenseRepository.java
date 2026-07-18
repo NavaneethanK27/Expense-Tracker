@@ -1,4 +1,4 @@
-package com.example.Expense.Tracker.repository;
+package com.example.Expense.Tracker.repsoitory;
 import com.example.Expense.Tracker.Entity.Expense;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

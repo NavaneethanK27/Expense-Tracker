@@ -1,4 +1,4 @@
-package com.example.Expense.Tracker.security;
+package com.example.Expense.Tracker.service;
 
 import com.example.Expense.Tracker.Entity.User;
 import com.example.Expense.Tracker.repsoitory.UserRepository;

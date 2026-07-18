@@ -4,9 +4,8 @@ import com.example.Expense.Tracker.Entity.Expense;
 import com.example.Expense.Tracker.dto.request.ExpenseRequest;
 import com.example.Expense.Tracker.dto.response.ExpenseResponse;
 import com.example.Expense.Tracker.exception.ExpenseNotFoundException;
-import com.example.Expense.Tracker.repository.ExpenseRepository;
+import com.example.Expense.Tracker.repsoitory.ExpenseRepository;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.*;
 
 @Service
 public class ExpenseServiceImpl implements ExpenseService {
